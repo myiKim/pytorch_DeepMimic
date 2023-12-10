@@ -63,7 +63,7 @@ To report a bug:
   - Actual behavior.
   - Any error messages or stack traces.
 
-For sensitive or private bug reports, you can contact us directly by emailing xxx@gmail.com.
+For sensitive or private bug reports, you can contact me directly by emailing myungkim87titan@gmail.com.
 
 Thank you for your assistance in enhancing this project!
 
