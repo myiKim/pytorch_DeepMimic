@@ -34,7 +34,9 @@ python DeepMimic_Optimizer.py --arg_file args/run_humanoid3d_spinkick_args.txt
 For additional details regarding arg files, kindly consult the original DeepMimic repository created by Peng (https://github.com/xbpeng/DeepMimic).
 
 Please note that I did the training on local PC (CPU).
+
 Model files will be tracked on the folder "output" 
+
 The RL algorithm is based on Proximal Policy Optimization (https://arxiv.org/abs/1707.06347)
 - agent0_model_anet.pth for actor network
 - agent0_model_cnet.pth for critic network
