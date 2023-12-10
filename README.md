@@ -28,7 +28,7 @@ To train and validate, you want to run the followings on the project directory:
 
 ```bash
 cd deepmimic
-python DeepMimic_Optimizer.py --arg_file run_humanoid3d_spinkick_args.txt
+python DeepMimic_Optimizer.py --arg_file train_humanoid3d_walk_args.txt
 ```
 
 For additional details regarding arg files, kindly consult the original DeepMimic repository created by Peng (https://github.com/xbpeng/DeepMimic).
