@@ -47,7 +47,7 @@ For inference,
 
 ```bash
 cd deepmimic
-python testrl.py
+python testrl.py --arg_file run_humanoid3d_walk_args.txt
 ```
 
 
